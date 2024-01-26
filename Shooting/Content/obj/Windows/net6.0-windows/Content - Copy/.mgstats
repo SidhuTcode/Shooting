@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Game Assignments/Shooting/Shooting/Content/backgroundMusic.wav","D:/Game Assignments/Shooting/Shooting/Content/bin/Windows/Content - Copy/backgroundMusic.xnb","SoundEffectProcessor","SoundEffectContent",15365454,15365481,0.3942685
+"D:/Game Assignments/Shooting/Shooting/Content/galleryFont.spritefont","D:/Game Assignments/Shooting/Shooting/Content/bin/Windows/Content - Copy/galleryFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,70687,0.1257186
+"D:/Game Assignments/Shooting/Shooting/Content/hitSound.wav","D:/Game Assignments/Shooting/Shooting/Content/bin/Windows/Content - Copy/hitSound.xnb","SoundEffectProcessor","SoundEffectContent",675150,675177,0.1381231
+"D:/Game Assignments/Shooting/Shooting/Content/missSound.wav","D:/Game Assignments/Shooting/Shooting/Content/bin/Windows/Content - Copy/missSound.xnb","SoundEffectProcessor","SoundEffectContent",3271758,3271785,0.186574
+"D:/Game Assignments/Shooting/Shooting/Content/sky.png","D:/Game Assignments/Shooting/Shooting/Content/bin/Windows/Content - Copy/sky.xnb","TextureProcessor","Texture2DContent",1079607,9216085,0.3552887

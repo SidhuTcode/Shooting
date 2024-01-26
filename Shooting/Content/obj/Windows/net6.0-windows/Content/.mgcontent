@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/backgroundMusic.wav</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/galleryFont.spritefont</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Images/aim.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Images/mainBackground.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Images/PlayBackground.jpg</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Images/target.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-1.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-10.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-11.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-12.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-13.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-14.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-15.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-16.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-17.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-18.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-19.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-2.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-20.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-21.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-22.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-23.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-24.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-25.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-26.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-27.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-28.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-29.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-3.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-30.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-4.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-5.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-6.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-7.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-8.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Loading/frame-9.png</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Sounds/gameOver.wav</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Sounds/hitsound.wav</File>
+    <File>D:/Sem 3/Game Assignments/TSSNFinal/Shooting/Shooting/Content/Sounds/misssound.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

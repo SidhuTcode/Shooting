@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Game Assignments/Shooting/Shooting/Content/Sounds/hitsound.wav</SourceFile>
+  <SourceTime>2023-12-08T18:19:27.4496783-05:00</SourceTime>
+  <DestFile>D:/Game Assignments/Shooting/Shooting/Content/bin/Windows/Sounds/hitsound.xnb</DestFile>
+  <DestTime>2023-12-08T18:22:23.7392504-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,152 @@
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\backgroundMusic.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\galleryFont.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Shooting.exe
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Shooting.deps.json
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Shooting.runtimeconfig.json
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Shooting.dll
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Shooting.pdb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\SharpDX.dll
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+D:\Game Assignments\Shooting\Shooting\obj\Debug\net6.0-windows\Shooting.csproj.AssemblyReference.cache
+D:\Game Assignments\Shooting\Shooting\obj\Debug\net6.0-windows\Shooting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Game Assignments\Shooting\Shooting\obj\Debug\net6.0-windows\Shooting.AssemblyInfoInputs.cache
+D:\Game Assignments\Shooting\Shooting\obj\Debug\net6.0-windows\Shooting.AssemblyInfo.cs
+D:\Game Assignments\Shooting\Shooting\obj\Debug\net6.0-windows\Shooting.csproj.CoreCompileInputs.cache
+D:\Game Assignments\Shooting\Shooting\obj\Debug\net6.0-windows\Shooting.csproj.CopyComplete
+D:\Game Assignments\Shooting\Shooting\obj\Debug\net6.0-windows\Shooting.dll
+D:\Game Assignments\Shooting\Shooting\obj\Debug\net6.0-windows\refint\Shooting.dll
+D:\Game Assignments\Shooting\Shooting\obj\Debug\net6.0-windows\Shooting.pdb
+D:\Game Assignments\Shooting\Shooting\obj\Debug\net6.0-windows\Shooting.genruntimeconfig.cache
+D:\Game Assignments\Shooting\Shooting\obj\Debug\net6.0-windows\ref\Shooting.dll
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-1.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-10.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-11.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-12.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-13.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-14.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-15.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-16.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-17.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-18.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-19.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-2.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-20.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-21.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-22.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-23.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-24.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-25.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-26.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-27.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-28.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-29.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-3.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-30.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-4.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-5.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-6.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-7.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-8.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-9.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Images\aim.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Images\target.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Sounds\hitsound.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Sounds\misssound.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Images\mainBackground.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Images\PlayBackground.xnb
+D:\Game Assignments\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Sounds\gameOver.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\backgroundMusic.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\galleryFont.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Images\aim.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Images\mainBackground.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Images\PlayBackground.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Images\target.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-1.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-10.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-11.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-12.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-13.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-14.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-15.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-16.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-17.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-18.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-19.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-2.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-20.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-21.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-22.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-23.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-24.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-25.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-26.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-27.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-28.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-29.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-3.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-30.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-4.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-5.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-6.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-7.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-8.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Loading\frame-9.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Sounds\gameOver.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Sounds\hitsound.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Content\Sounds\misssound.xnb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Shooting.exe
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Shooting.deps.json
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Shooting.runtimeconfig.json
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Shooting.dll
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Shooting.pdb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\SharpDX.dll
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\obj\Debug\net6.0-windows\Shooting.csproj.AssemblyReference.cache
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\obj\Debug\net6.0-windows\Shooting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\obj\Debug\net6.0-windows\Shooting.AssemblyInfoInputs.cache
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\obj\Debug\net6.0-windows\Shooting.AssemblyInfo.cs
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\obj\Debug\net6.0-windows\Shooting.csproj.CoreCompileInputs.cache
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\obj\Debug\net6.0-windows\Shooting.csproj.CopyComplete
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\obj\Debug\net6.0-windows\Shooting.dll
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\obj\Debug\net6.0-windows\refint\Shooting.dll
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\obj\Debug\net6.0-windows\Shooting.pdb
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\obj\Debug\net6.0-windows\Shooting.genruntimeconfig.cache
+D:\Sem 3\Game Assignments\TSSNFinal\Shooting\Shooting\obj\Debug\net6.0-windows\ref\Shooting.dll
